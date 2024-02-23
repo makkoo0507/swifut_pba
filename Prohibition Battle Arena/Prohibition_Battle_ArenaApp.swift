@@ -2,7 +2,7 @@
 //  Prohibition_Battle_ArenaApp.swift
 //  Prohibition Battle Arena
 //
-//  Created by tamakimasato on 2024/01/06.
+//  Created by tamakimasato on 2024/01/05.
 //
 
 import SwiftUI
